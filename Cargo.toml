@@ -7,6 +7,10 @@ description = "A tool to generate a texture-atlas form a folder of images."
 readme = "readme.md"
 keywords = ["texture", "atlas", "image", "png", "pixelart"]
 categories = ["command-line-utilities"]
+exclude = [
+    "testing/*",
+    "*.png"
+]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
