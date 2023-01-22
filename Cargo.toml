@@ -9,7 +9,6 @@ keywords = ["texture", "atlas", "image", "png", "pixelart"]
 categories = ["command-line-utilities"]
 repository = "https://github.com/TillWege/Atlantinator"
 homepage = "https://github.com/TillWege/Atlantinator"
-license = "MIT"
 license-file = "LICENSE.md"
 exclude = [
     "testing/*",
