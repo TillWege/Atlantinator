@@ -1,6 +1,6 @@
 [package]
 name = "atlantinator"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Till Wege"]
 description = "A tool to generate a texture-atlas form a folder of images."
